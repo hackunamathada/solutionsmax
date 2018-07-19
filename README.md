@@ -1,0 +1,2 @@
+# solutionsmax
+GitHub Pages
