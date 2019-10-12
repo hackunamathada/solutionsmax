@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.9.1",
     "uniqCompNum": 1,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.10.8",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -742,6 +742,9 @@
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
               }
+            },
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
             }
           },
           "_name": "gallery1",
@@ -771,7 +774,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Open co working space",
                 "active": true
               },
               {
@@ -784,7 +787,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Consultantcy&nbsp;",
                 "active": false
               },
               {
@@ -797,7 +800,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Promoter",
                 "active": false
               },
               {
@@ -810,7 +813,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Co Workers&nbsp;",
                 "active": false
               },
               {
@@ -823,7 +826,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Freelancer",
                 "active": false
               },
               {
@@ -836,7 +839,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Team Work",
                 "active": false
               },
               {
@@ -849,7 +852,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Training",
                 "active": false
               },
               {
@@ -862,7 +865,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Conference Hall",
                 "active": false
               }
             ]
