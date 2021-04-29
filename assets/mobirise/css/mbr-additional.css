@@ -703,18 +703,6 @@ section.lazy-placeholder:after {
 .cid-qYfgBdEb0o P {
   color: #cc2952;
 }
-.cid-qYfhI9IUIt {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #efefef;
-}
-.cid-qYfhI9IUIt .mbr-text,
-.cid-qYfhI9IUIt blockquote {
-  color: #767676;
-}
-.cid-qYfhI9IUIt .mbr-text {
-  color: #232323;
-}
 .cid-qL0w56FAwx .navbar {
   padding: .5rem 0;
   background: #b2ccd2;
@@ -1104,6 +1092,32 @@ section.lazy-placeholder:after {
 .cid-qL0w56FAwx .dropdown-item:hover {
   color: #ff3366 !important;
 }
+.cid-svZmfDZ93K {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-svZmfDZ93K .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-svZmfDZ93K .section-text {
+  padding: 2rem 0;
+}
+.cid-svZmfDZ93K .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-svZmfDZ93K .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-svZmfDZ93K .section-text DIV {
+  text-align: center;
+}
 .cid-qYfiobpLhU {
   padding-top: 90px;
   padding-bottom: 45px;
@@ -1124,6 +1138,13 @@ section.lazy-placeholder:after {
   .cid-qYfiobpLhU .mbr-text {
     text-align: center;
   }
+}
+.cid-qYfiobpLhU .mbr-text,
+.cid-qYfiobpLhU .mbr-section-btn {
+  text-align: left;
+}
+.cid-qYfiobpLhU H1 {
+  text-align: left;
 }
 .cid-qYflKoHWJC {
   padding-top: 60px;
@@ -1199,6 +1220,12 @@ section.lazy-placeholder:after {
 }
 .cid-qYflKoHWJC .mbr-text {
   color: #080808;
+}
+.cid-qYflKoHWJC P {
+  text-align: left;
+}
+.cid-qYflKoHWJC H2 {
+  text-align: left;
 }
 .cid-qYfn0wYVbb {
   padding-top: 30px;
@@ -1668,12 +1695,12 @@ section.lazy-placeholder:after {
 }
 .cid-qL0w56FAwx .navbar {
   padding: .5rem 0;
-  background: #b2ccd2;
+  background: #c1c1c1;
   transition: none;
   min-height: 77px;
 }
 .cid-qL0w56FAwx .navbar-dropdown.bg-color.transparent.opened {
-  background: #b2ccd2;
+  background: #c1c1c1;
 }
 .cid-qL0w56FAwx a {
   font-style: normal;
@@ -1757,7 +1784,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qL0w56FAwx .dropdown .dropdown-menu {
-  background: #b2ccd2;
+  background: #c1c1c1;
   display: none;
   position: absolute;
   min-width: 5rem;
