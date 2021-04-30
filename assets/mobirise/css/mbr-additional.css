@@ -1347,24 +1347,52 @@ section.lazy-placeholder:after {
 .cid-qLqJdJ89WI .mbr-text {
   color: #232323;
 }
-.cid-qYfoEtRzzY {
-  padding-top: 30px;
+.cid-sw2tfZE5C7 {
+  padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-qYfoEtRzzY .mbr-figure {
-    padding-left: 4rem;
-  }
+.cid-sw2tfZE5C7 .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
 }
-@media (max-width: 992px) {
-  .cid-qYfoEtRzzY .mbr-figure {
-    padding-top: 1rem;
-  }
+.cid-sw2tfZE5C7 .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #ffffff;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .5s;
 }
-.cid-qYfoEtRzzY .mbr-text {
+.cid-sw2tfZE5C7 .nav-tabs .nav-link:hover {
+  background-color: #ff3366;
+}
+.cid-sw2tfZE5C7 .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  border: none;
+  background: #ff3366;
+}
+.cid-sw2tfZE5C7 .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-sw2tfZE5C7 p {
   color: #232323;
-  text-align: left;
+}
+.cid-sw2tfZE5C7 .mbr-text {
+  text-align: center;
+}
+.cid-sw2tfZE5C7 H2 {
+  color: #efefef;
+}
+.cid-sw2tfZE5C7 P {
+  color: #efefef;
 }
 .cid-sw22Ts6ZdG {
   padding-top: 90px;
@@ -1421,6 +1449,9 @@ section.lazy-placeholder:after {
   .cid-sw22Ts6ZdG .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-sw22Ts6ZdG UL {
+  text-align: center;
 }
 .cid-qLqJrYblp4 {
   padding-top: 75px;
@@ -1686,7 +1717,7 @@ section.lazy-placeholder:after {
 }
 .cid-qYk11UuPwO {
   padding-top: 60px;
-  padding-bottom: 120px;
+  padding-bottom: 45px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
@@ -1756,12 +1787,12 @@ section.lazy-placeholder:after {
 }
 .cid-qL0w56FAwx .navbar {
   padding: .5rem 0;
-  background: #c1c1c1;
+  background: #b2ccd2;
   transition: none;
   min-height: 77px;
 }
 .cid-qL0w56FAwx .navbar-dropdown.bg-color.transparent.opened {
-  background: #c1c1c1;
+  background: #b2ccd2;
 }
 .cid-qL0w56FAwx a {
   font-style: normal;
@@ -1845,7 +1876,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qL0w56FAwx .dropdown .dropdown-menu {
-  background: #c1c1c1;
+  background: #b2ccd2;
   display: none;
   position: absolute;
   min-width: 5rem;
