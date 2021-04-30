@@ -1456,10 +1456,10 @@ section.lazy-placeholder:after {
 .cid-qLqJrYblp4 {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #ffffff;
+  background: url("../../../assets/images/signal-2021-04-29-195130-1-1536x1152.jpg");
 }
 .cid-qLqJrYblp4 .mbr-section-subtitle {
-  color: #767676;
+  color: #efefef;
   font-weight: 300;
 }
 .cid-qLqJrYblp4 .number-wrap {
@@ -1539,6 +1539,9 @@ section.lazy-placeholder:after {
   .cid-qLqJrYblp4 .period {
     font-size: 0.8rem;
   }
+}
+.cid-qLqJrYblp4 H2 {
+  color: #efefef;
 }
 .cid-qLqJQqXJJu {
   padding-top: 45px;
