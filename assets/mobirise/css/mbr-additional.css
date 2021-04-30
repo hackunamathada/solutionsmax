@@ -1348,7 +1348,7 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-sw2tfZE5C7 {
-  padding-top: 60px;
+  padding-top: 75px;
   padding-bottom: 60px;
 }
 .cid-sw2tfZE5C7 .nav-tabs {
@@ -1634,63 +1634,45 @@ section.lazy-placeholder:after {
     padding-left: 30px;
   }
 }
-.cid-qLqKucEML6 {
-  padding-top: 75px;
+.cid-sw3bO0CiD3 {
+  padding-top: 90px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-qLqKucEML6 .mbr-section-subtitle {
+.cid-sw3bO0CiD3 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qLqKucEML6 .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+.cid-sw3bO0CiD3 .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-qLqKucEML6 .mbr-text {
-  color: #767676;
+.cid-sw3bO0CiD3 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
 }
-.cid-qLqKucEML6 .mbr-author-desc {
-  display: block;
-  color: #767676;
-}
-.cid-qLqKucEML6 .mbr-author-name {
-  color: #767676;
-}
-.cid-qLqKucEML6 .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-}
-.cid-qLqKucEML6 .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-qLqKucEML6 .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-qLqKucEML6 .mbr-testimonial .card-block .testimonial-photo img {
+.cid-sw3bO0CiD3 .team-item .item-image img {
   width: 100%;
-  min-width: 100%;
-  min-height: 100%;
 }
-.cid-qLqKucEML6 .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
+.cid-sw3bO0CiD3 .team-item .item-name p {
+  margin-bottom: 0;
 }
-@media (max-width: 300px) {
-  .cid-qLqKucEML6 .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
+.cid-sw3bO0CiD3 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-sw3bO0CiD3 .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-sw3bO0CiD3 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-sw3bO0CiD3 .team-item .item-caption {
+  background: #efefef;
 }
 .cid-qYk11UuPwO {
   padding-top: 60px;
