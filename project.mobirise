@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "versionFirst": "4.9.1",
     "uniqCompNum": 11,
-    "versionPublish": "5.3.5",
+    "versionPublish": "5.5.5",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     },
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/solutionsmax-logo-128x117-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/solutionsmax-logo-128x117_1.png",
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
