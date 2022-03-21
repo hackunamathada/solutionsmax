@@ -97,10 +97,10 @@
             },
             "H1": {
               "text-align": "left",
-              "color": "#f7ed4a"
+              "color": "#ffffff"
             },
             "H3": {
-              "color": "#f7ed4a",
+              "color": "#ffffff",
               "text-align": "left"
             },
             "P": {
