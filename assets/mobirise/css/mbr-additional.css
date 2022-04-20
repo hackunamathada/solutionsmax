@@ -1038,24 +1038,6 @@ a {
   text-align: center;
   color: #5f6366;
 }
-.cid-sFGNHRkFsi {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
-  background-color: #fafafa;
-}
-.cid-sFGNHRkFsi .card-wrapper {
-  display: flex;
-}
-@media (max-width: 991px) {
-  .cid-sFGNHRkFsi .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-sFGNHRkFsi .mbr-iconfont {
-  font-size: 4rem;
-  color: #4d6d9a;
-  padding-right: 1.5rem;
-}
 .cid-sFGOTvnvck {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1500,7 +1482,6 @@ a {
 .cid-sFGThwwRWM {
   padding-top: 5rem;
   padding-bottom: 6rem;
-  background-color: #fafafa;
 }
 .cid-sFGThwwRWM .mbr-media {
   position: relative;
