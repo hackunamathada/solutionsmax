@@ -33,7 +33,7 @@
       "presetSourceTheme": "mobirise5"
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-04-20_0527",
+    "name": "Bible Studio",
     "versionFirst": "5.5.5",
     "siteFonts": [
       {
@@ -44,7 +44,7 @@
     ],
     "imageResize": true,
     "favicon": false,
-    "mbrsiteDomain": "bfvv4sx7jw",
+    "mbrsiteDomain": "rnb5rywiia",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -60,7 +60,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Bible Studio",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
